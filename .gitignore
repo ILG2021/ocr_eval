@@ -1,0 +1,18 @@
+# OCR Eval Ignored Files
+
+# 评测资源与数据
+assets/
+models/
+evaluation_results.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+build/
+dist/
+*.egg-info/
